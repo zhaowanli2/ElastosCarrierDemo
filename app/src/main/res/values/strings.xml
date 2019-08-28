@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Carrier Offline Demo</string>
+    <string name="action_scan">Scan</string>
+    <string name="action_myAddress">My Address</string>
+    <string name="action_deleteUser">Delete Friend</string>
+    <string-array name="array_message">
+        <item>@string/action_deleteUser</item>
+    </string-array>
+
+    <string name="action_friend_request">A new friend request</string>
+</resources>
